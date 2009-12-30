@@ -1,8 +1,8 @@
 " Vim syntax file
 " Language:	Cascading Style Sheets
-" Maintainer:	Claudio Fleiner <claudio@fleiner.com>
-" URL:		http://www.fleiner.com/vim/syntax/css.vim
-" Last Change:	2007 Nov 06
+" Maintainer:	Caleb Cushing <xenoterracide@gmail.com>
+" URL:		http://github.com/xenoterracide/css.vim
+" Last Change:	2009 Dec 30
 " CSS2 by Nikolai Weibull
 " Full CSS2, HTML4 support by Yeti
 
