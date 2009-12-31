@@ -2,7 +2,7 @@
 " Language:	Cascading Style Sheets
 " Maintainer:	Caleb Cushing <xenoterracide@gmail.com>
 " URL:		http://github.com/xenoterracide/css.vim
-" Last Change:	2009 Dec 30
+" Last Change:	2009 Dec 31
 " CSS2 by Nikolai Weibull
 " Full CSS2, HTML4 support by Yeti
 
@@ -23,7 +23,7 @@ syn keyword cssTagName abbr acronym address applet area article a b base
 syn keyword cssTagName basefont bdo big blockquote body br button
 syn keyword cssTagName caption center cite code col colgroup dd del
 syn keyword cssTagName dfn dir div dl dt em fieldset font form frame
-syn keyword cssTagName frameset h1 h2 h3 h4 h5 h6 head hr html img i
+syn keyword cssTagName frameset h1 h2 h3 h4 h5 h6 head header hr html img i
 syn keyword cssTagName iframe img input ins isindex kbd label legend li
 syn keyword cssTagName link map menu meta nav noframes noscript ol optgroup
 syn keyword cssTagName option p param pre q s samp script select small
